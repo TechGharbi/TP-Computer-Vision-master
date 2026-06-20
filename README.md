@@ -1,1 +1,2 @@
-# TP-Computer-Vision-master
+# TP-Computer-Vision
+Les Tps du module CV du Master informatique visuelle (USTHB) 
